@@ -1,0 +1,29 @@
+{
+  "name": "scraping_province",
+  "version": "1.0.0",
+  "description": "Test scraping province",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werayootk/scraping_province.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Werayootk/scraping_province/issues"
+  },
+  "homepage": "https://github.com/Werayootk/scraping_province#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "nodemon": "^2.0.15",
+    "pretty": "^2.0.0",
+    "puppeteer": "^13.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
