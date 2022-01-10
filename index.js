@@ -31,3 +31,18 @@ note
 - https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/
 */
 
+const puppeteer = require('puppeteer');
+function run () {
+  return new Promise(async (resolve, reject) => {
+      try {
+          const browser = await puppeteer.launch();
+          const page = await browser.newPage();
+          await page.goto("https://www.drivehub.co/");
+          
+          await browser.close();
+      } catch (e) {
+          return reject(e);
+      }
+  })
+}
+run().then(console.log).catch(console.error);
