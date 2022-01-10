@@ -29,6 +29,10 @@ note
 - https://tkssharma.com/scrape-web-with-nodejs/
 - https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial
 - https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/
+- https://www.digitalocean.com/community/tutorials/how-to-scrape-a-website-using-node-js-and-puppeteer
+- https://dev.to/kirillinoz/web-scraping-with-puppeteer-kj7
+- https://dev.to/diass_le/tutorial-web-scraping-with-nodejs-and-cheerio-2jbh
+- https://medium.com/@dylan.sather/scrape-a-site-with-node-and-cheerio-in-5-minutes-4617daee3384
 */
 
 const puppeteer = require('puppeteer');
