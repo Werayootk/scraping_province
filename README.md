@@ -39,5 +39,6 @@ note
 #E2E
 - https://blog.logrocket.com/react-end-to-end-testing-jest-puppeteer/
 - https://dzuz14.medium.com/web-scraping-with-node-js-how-to-scrape-websites-apps-with-puppeteer-node-js-a95281fdad40
+- https://tutorialmeta.com/question/scraping-data-with-puppeteer-from-react-website
 
 
