@@ -36,4 +36,8 @@ note
 - https://dev.to/diass_le/tutorial-web-scraping-with-nodejs-and-cheerio-2jbh
 - https://medium.com/@dylan.sather/scrape-a-site-with-node-and-cheerio-in-5-minutes-4617daee3384
 
+#E2E
+- https://blog.logrocket.com/react-end-to-end-testing-jest-puppeteer/
+- https://dzuz14.medium.com/web-scraping-with-node-js-how-to-scrape-websites-apps-with-puppeteer-node-js-a95281fdad40
+
 
